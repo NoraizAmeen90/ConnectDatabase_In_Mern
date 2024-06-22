@@ -31,3 +31,14 @@
     - console log `connectionInstance`
     - Read more about process.exit code
 
+
+
+7 --   User and video Model with hook and JWT.
+    -- Make User model user.model.js
+    -- Make Video Model video.model.js
+    -- Refresh Token and Password Concept 
+    -- Install Mongoose-aggregate-paginate-v2  (A cursor based custom aggregate pagination library for Mongoose with customizable labels.)
+    -- Install bcrypt (A library to help you hash passwords.)
+    -- Install JsonWebToken Jwt from npm
+    -- Use Mongoose Middleware 
+    -- Create methods for password and accesstoken.  Use pre type middleware.
